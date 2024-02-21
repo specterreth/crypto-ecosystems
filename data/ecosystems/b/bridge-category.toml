@@ -1,8 +1,0 @@
-# Ecosystem Level Information
-title = "Bridge (Category)"
-
-sub_ecosystems = ["Hyperlane", "Router Protocol"]
-
-github_organizations = []
-
-# Repositories
